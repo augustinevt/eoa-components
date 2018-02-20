@@ -1,6 +1,6 @@
 {
-  "name": "@monsoon_inc/monsoon-components",
-  "version": "1.0.4",
+  "name": "eoa-components",
+  "version": "1.0.8",
   "description": "This is a test",
   "main": "build/index.js",
   "peerDependencies": {
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
+    "eoa-styles": "^1.0.0",
     "deepmerge": "^2.0.1",
     "enzyme": "^3.2.0",
     "express": "^4.16.2",
